@@ -1,0 +1,1 @@
+link untuk api mealdb(makanan) = https://www.themealdb.com/api.php
